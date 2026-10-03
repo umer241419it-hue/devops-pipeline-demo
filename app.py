@@ -148,7 +148,7 @@ HTML_TEMPLATE = """
             <span class="status-dot"></span>
             Pipeline Active & Live
         </div>
-        <h1>DevOps Pipeline Demo</h1>
+        <h1>DevOps Pipeline Demo - Build 2</h1>
         <p class="subtitle">Application deployed successfully through the DevOps pipeline.</p>
         
         <div class="pipeline-flow">
